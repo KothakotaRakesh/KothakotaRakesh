@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+<title id="title">Technical toolkit of Kothakota Rakesh</title>
+<desc id="desc">Four dark premium cards showing languages, frontend, backend, and AI / tools areas.</desc>
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e1729"/><stop offset="1" stop-color="#10182b"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6bf0d5"/><stop offset="1" stop-color="#9f91fe"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#69d7da" stop-opacity=".19"/><stop offset="1" stop-color="#69d7da" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#b3c8e8" opacity=".19"/></pattern>
+</defs>
+<style>
+ .card{animation:rise 8s ease-in-out infinite}
+ .c2{animation-delay:-2s}.c3{animation-delay:-4s}.c4{animation-delay:-6s}
+ .light{animation:lit 5s ease-in-out infinite}
+ .b2{animation-delay:-1.25s}.b3{animation-delay:-2.5s}.b4{animation-delay:-3.75s}
+ @keyframes rise{50%{transform:translateY(-4px)}}
+ @keyframes lit{50%{opacity:.43}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1000" height="310" rx="18" fill="url(#base)"/>
+<rect width="1000" height="310" rx="18" fill="url(#dots)"/>
+<rect width="998" height="308" x="1" y="1" rx="17" fill="none" stroke="#426383" stroke-opacity=".45"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="28" y="37" font-size="12" font-weight="700" fill="#8fe6e0" letter-spacing="2.3">TECHNOLOGY / EVERYDAY TOOLKIT</text>
+ <text x="971" y="37" font-size="11" text-anchor="end" fill="#7e90aa">01 - 04</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <g class="card">
+  <rect x="24" y="60" width="228" height="221" rx="14" fill="#16233a" stroke="#466487" stroke-opacity=".8"/>
+  <rect x="24" y="60" width="228" height="3" rx="1.5" fill="#73ead8" class="light"/>
+  <rect x="45" y="82" width="47" height="43" rx="11" fill="#214954" stroke="#5badaf" stroke-opacity=".5"/>
+  <text x="68" y="111" text-anchor="middle" font-size="24" font-weight="800" fill="#8cf7df">&lt;/&gt;</text>
+  <text x="45" y="157" font-size="19" font-weight="700" fill="#eaf3ff">Languages</text>
+  <text x="45" y="185" font-size="13" fill="#b4c5dd">Python · JavaScript</text>
+  <text x="45" y="207" font-size="13" fill="#b4c5dd">C · SQL</text>
+  <text x="45" y="229" font-size="13" fill="#b4c5dd">HTML · CSS</text>
+  <text x="45" y="263" font-size="10" fill="#74ded2" letter-spacing="1.7">FOUNDATIONS</text>
+ </g>
+ <g class="card c2">
+  <rect x="265" y="60" width="228" height="221" rx="14" fill="#16233a" stroke="#506284" stroke-opacity=".8"/>
+  <rect x="265" y="60" width="228" height="3" rx="1.5" fill="#a49aff" class="light b2"/>
+  <rect x="286" y="82" width="47" height="43" rx="11" fill="#353457" stroke="#a39ae8" stroke-opacity=".48"/>
+  <text x="309" y="111" text-anchor="middle" font-size="26" font-weight="800" fill="#b9adff">◫</text>
+  <text x="286" y="157" font-size="19" font-weight="700" fill="#eaf3ff">Frontend</text>
+  <text x="286" y="185" font-size="13" fill="#b4c5dd">React · Next.js</text>
+  <text x="286" y="207" font-size="13" fill="#b4c5dd">Responsive UI</text>
+  <text x="286" y="229" font-size="13" fill="#b4c5dd">Motion design</text>
+  <text x="286" y="263" font-size="10" fill="#b9adff" letter-spacing="1.7">EXPERIENCES</text>
+ </g>
+ <g class="card c3">
+  <rect x="506" y="60" width="228" height="221" rx="14" fill="#16233a" stroke="#456581" stroke-opacity=".8"/>
+  <rect x="506" y="60" width="228" height="3" rx="1.5" fill="#7fcff3" class="light b3"/>
+  <rect x="527" y="82" width="47" height="43" rx="11" fill="#223b57" stroke="#80b9df" stroke-opacity=".52"/>
+  <text x="550" y="112" text-anchor="middle" font-size="24" font-weight="800" fill="#8cd5f6">⌘</text>
+  <text x="527" y="157" font-size="19" font-weight="700" fill="#eaf3ff">Backend</text>
+  <text x="527" y="185" font-size="13" fill="#b4c5dd">FastAPI · Flask</text>
+  <text x="527" y="207" font-size="13" fill="#b4c5dd">REST APIs</text>
+  <text x="527" y="229" font-size="13" fill="#b4c5dd">SQL · Databases</text>
+  <text x="527" y="263" font-size="10" fill="#84cfee" letter-spacing="1.7">ENGINEERING</text>
+ </g>
+ <g class="card c4">
+  <rect x="747" y="60" width="228" height="221" rx="14" fill="#16233a" stroke="#5d5681" stroke-opacity=".8"/>
+  <rect x="747" y="60" width="228" height="3" rx="1.5" fill="#dfadfb" class="light b4"/>
+  <rect x="768" y="82" width="47" height="43" rx="11" fill="#423352" stroke="#b68bd3" stroke-opacity=".53"/>
+  <text x="791" y="110" text-anchor="middle" font-size="24" font-weight="800" fill="#e0bcff">✳</text>
+  <text x="768" y="157" font-size="19" font-weight="700" fill="#eaf3ff">AI &amp; Tools</text>
+  <text x="768" y="185" font-size="13" fill="#b4c5dd">Machine Learning</text>
+  <text x="768" y="207" font-size="13" fill="#b4c5dd">Graph algorithms</text>
+  <text x="768" y="229" font-size="13" fill="#b4c5dd">Git · Docker</text>
+  <text x="768" y="263" font-size="10" fill="#d9adf2" letter-spacing="1.7">EXPLORATION</text>
+ </g>
+</g>
+</svg>
