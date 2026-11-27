@@ -1,61 +1,59 @@
 <div align="center">
 
-# Hi, I'm Kothakota Rakesh 👋
+<img src="./assets/rakesh-hero.svg" width="100%" alt="Animated professional banner for Kothakota Rakesh: AI/ML student and full-stack developer" />
 
-<a href="https://github.com/KothakotaRakesh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://kothakotarakesh.github.io/Power2808-tech/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-67E6D8?style=for-the-badge&logo=githubpages&logoColor=081222" /></a>
+<br />
 
-</div>
-
----
-
-### 👨‍💻 About me
-
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning** at **Saveetha Institute of Medical and Technical Sciences, Chennai**
-- 💻 Interested in **full-stack development, machine learning, algorithms and cybersecurity**
-- 🌱 Exploring new technologies, improving problem-solving skills and building practical applications
-- ⚡ Passionate about creating intuitive, reliable software
-
-### 🛠️ Tech stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-59666C?style=flat-square)
-
-**Frameworks & tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-151515?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<a href="https://github.com/KothakotaRakesh" title="Explore my GitHub profile">
+  <img src="https://img.shields.io/badge/VIEW%20GITHUB-141B2E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=141B2E" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kothakotarakesh.github.io/Power2808-tech/" title="Open my personal link hub and portfolio">
+  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-6CE8D8?style=for-the-badge&logo=githubpages&logoColor=102133&labelColor=6CE8D8" alt="Portfolio" />
+</a>
 
 </div>
 
-### 📊 GitHub activity
+<br />
+
+### <img src="https://img.shields.io/badge/01-68E8D3?style=flat-square&labelColor=162037" alt="01" /> &nbsp; About me
+
+> **I turn ideas into practical, intuitive digital experiences.**
+>
+> A B.Tech **Artificial Intelligence & Machine Learning** student at **Saveetha Institute of Medical and Technical Sciences, Chennai**, exploring the intersection of full-stack engineering, machine learning and thoughtful interface design.
+
+- 🧠 **I enjoy:** AI/ML, algorithms, problem solving and cybersecurity
+- 💻 **I build with:** Python, JavaScript, React, FastAPI and databases
+- 🧪 **My approach:** Learn → experiment → build → improve
+- 🤝 **I'm interested in:** Collaboration, research and hackathons
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KothakotaRakesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KothakotaRakesh&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub language summary" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KothakotaRakesh&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1100&color=7AE9D8&center=true&vCenter=true&width=760&height=46&lines=Building+with+Python+%26+JavaScript;Exploring+AI+%2F+ML+and+graph+algorithms;Creating+responsive+web+experiences;Learning+something+new+every+day" width="90%" alt="Animated text highlighting current technical interests" />
 
 </div>
 
----
+### <img src="https://img.shields.io/badge/02-9D95FF?style=flat-square&labelColor=162037" alt="02" /> &nbsp; Technology stack
 
 <div align="center">
 
-*Stay curious. Keep building. 🚀*
+<img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Python, JavaScript, C, SQL, HTML, CSS, React, Next.js, FastAPI, Flask, Machine Learning, Git and Docker" />
 
+</div>
+
+### <img src="https://img.shields.io/badge/03-7CD7F7?style=flat-square&labelColor=162037" alt="03" /> &nbsp; GitHub insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KothakotaRakesh&show_icons=true&include_all_commits=true&title_color=77EBD7&text_color=DDE7FA&icon_color=A99BFF&bg_color=0F192D&border_color=425573&border_radius=12" alt="GitHub statistics" width="53%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KothakotaRakesh&layout=compact&title_color=77EBD7&text_color=DDE7FA&bg_color=0F192D&border_color=425573&border_radius=12" alt="Most used GitHub repository languages" width="43%" />
+
+</div>
+
+<sub>Language cards describe the public repositories GitHub detects, not a ranking of proficiency. Statistics are supplied by an external service and may occasionally be unavailable.</sub>
+
+<br />
+
+<div align="center">
+<img src="./assets/profile-footer.svg" width="100%" alt="Stay curious. Keep building. One commit at a time." />
 </div>
