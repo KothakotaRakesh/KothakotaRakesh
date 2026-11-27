@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+<title id="title">Kothakota Rakesh — AI ML student and full-stack developer</title>
+<desc id="desc">Futuristic midnight-blue developer banner featuring animated cyan and violet accents and an illustrated code terminal.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".54" stop-color="#111b32"/><stop offset="1" stop-color="#111127"/></linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68f1d3"/><stop offset=".53" stop-color="#75dbed"/><stop offset="1" stop-color="#a69cff"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6ffbe5" stop-opacity="0"/><stop offset=".55" stop-color="#6ffbe5"/><stop offset="1" stop-color="#ad96ff" stop-opacity=".13"/></linearGradient>
+  <linearGradient id="terminal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d2c46"/><stop offset="1" stop-color="#111a2b"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#5bdace" stop-opacity=".26"/><stop offset=".58" stop-color="#6c7acb" stop-opacity=".1"/><stop offset="1" stop-color="#6c7acb" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#d2e6ff" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <clipPath id="frame"><rect x="1" y="1" width="998" height="328" rx="20"/></clipPath>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<style>
+  .orbital{transform-origin:799px 170px;animation:spin 24s linear infinite}
+  .counter{transform-origin:799px 170px;animation:spin 18s linear infinite reverse}
+  .breath{animation:breath 4s ease-in-out infinite}
+  .dash{stroke-dasharray:12 14;animation:march 10s linear infinite}
+  .shimmer{animation:shimmer 7s ease-in-out infinite}
+  .scan{animation:scan 7s linear infinite}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+  .slide{animation:slide 9s ease-in-out infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes breath{50%{opacity:.52}}
+  @keyframes march{to{stroke-dashoffset:-520}}
+  @keyframes shimmer{0%,100%{opacity:.45}50%{opacity:1}}
+  @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+  @keyframes scan{0%{transform:translateX(-670px);opacity:0}10%{opacity:.65}90%{opacity:.65}100%{transform:translateX(1150px);opacity:0}}
+  @keyframes slide{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}
+</style>
+<rect width="1000" height="330" rx="20" fill="url(#bg)"/>
+<g clip-path="url(#frame)">
+ <rect width="1000" height="330" fill="url(#grid)"/>
+ <circle cx="785" cy="170" r="210" fill="url(#orb)" class="breath"/>
+ <path d="M0 325H1000" stroke="url(#teal)" stroke-width="4" opacity=".65"/>
+ <path d="M1 1H999" stroke="#c2e2ff" stroke-opacity=".12"/>
+ <path d="M-100 300L190 8" stroke="#6bd4ef" stroke-opacity=".05" stroke-width="190"/>
+ <g opacity=".47" fill="none" stroke="#91a5ff">
+  <path d="M640 -12L800 140L1050 140" stroke-opacity=".14"/>
+  <path d="M610 350L808 152L1060 152" stroke-opacity=".13"/>
+  <path d="M690 0L850 162L1060 162" stroke-opacity=".2"/>
+ </g>
+ <rect x="-30" y="16" width="46" height="296" fill="#a6f8e1" opacity=".07" class="scan"/>
+ <g transform="translate(800 170)">
+  <circle r="123" fill="none" stroke="#8fc9e8" stroke-opacity=".14"/>
+  <circle r="101" fill="none" stroke="#82bee9" stroke-opacity=".17" stroke-width="1.5" stroke-dasharray="3 8"/>
+  <circle r="77" fill="none" stroke="#74f0d5" stroke-opacity=".18"/>
+  <circle r="145" fill="none" stroke="#a6b8ff" stroke-opacity=".09"/>
+ </g>
+ <g class="orbital">
+   <path d="M800 60A110 110 0 0 1 910 170" fill="none" stroke="#6fead9" stroke-width="3" stroke-linecap="round"/>
+   <circle cx="800" cy="60" r="5" fill="#76f3da"/>
+ </g>
+ <g class="counter">
+   <path d="M800 291A121 121 0 0 1 679 170" fill="none" stroke="#9d98ff" stroke-width="2.5" stroke-linecap="round"/>
+ </g>
+ <circle cx="918" cy="88" r="3.5" fill="#98c4ff" class="pulse"/>
+ <circle cx="702" cy="265" r="2.8" fill="#6df1d4" class="pulse"/>
+ <circle cx="982" cy="229" r="2" fill="#8fb5ff" class="pulse"/>
+ <path d="M560 300H991" stroke="url(#line)" stroke-width="2" class="dash"/>
+</g>
+<rect x="1" y="1" width="998" height="328" rx="20" fill="none" stroke="#7db6d3" stroke-opacity=".3"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <rect x="47" y="31" width="209" height="29" rx="14" fill="#142f3a" stroke="#58eac8" stroke-opacity=".45"/>
+ <circle cx="64" cy="45.5" r="4.3" fill="#62e8a6" class="pulse"/>
+ <text x="78" y="50" fill="#a6eedb" font-weight="700" font-size="11" letter-spacing="1.2">DEVELOPER / PORTFOLIO</text>
+ <text x="45" y="120" fill="#f0f5ff" font-size="55" font-weight="800" letter-spacing="-1.3">KOTHAKOTA</text>
+ <text x="42" y="200" fill="url(#teal)" font-size="81" font-weight="900" letter-spacing="-2.8">RAKESH</text>
+ <rect x="47" y="220" width="405" height="2" rx="1" fill="url(#line)"/>
+ <text x="47" y="253" fill="#b2bfd9" font-size="17" font-weight="600" letter-spacing="1.2">AI/ML STUDENT  ·  FULL-STACK DEVELOPER</text>
+ <text x="47" y="285" fill="#7f92af" font-size="12" letter-spacing="2.1">LEARN  /  BUILD  /  IMPROVE</text>
+</g>
+<g class="slide">
+ <rect x="674" y="104" width="254" height="140" rx="13" fill="#010916" opacity=".42" filter="url(#glow)"/>
+ <rect x="666" y="98" width="254" height="140" rx="13" fill="url(#terminal)" stroke="#7294be" stroke-opacity=".68"/>
+ <path d="M666 132H920" stroke="#7089ac" stroke-opacity=".42"/>
+ <circle cx="684" cy="115" r="4" fill="#ff898d"/><circle cx="698" cy="115" r="4" fill="#ffd87b"/><circle cx="712" cy="115" r="4" fill="#78deae"/>
+ <text x="734" y="119" font-family="monospace" font-size="10" fill="#9baec9">hello_world.ts</text>
+ <g font-family="monospace" font-size="12">
+  <text x="682" y="159" fill="#bbadff">const <tspan fill="#e6efff">developer</tspan> = {</text>
+  <text x="699" y="178" fill="#b5c6e2">name: <tspan fill="#7fefc8">'Rakesh'</tspan>,</text>
+  <text x="699" y="197" fill="#b5c6e2">focus: <tspan fill="#7fefc8">'AI + Web'</tspan>,</text>
+  <text x="699" y="216" fill="#b5c6e2">building: <tspan fill="#aeb3ff">true</tspan></text>
+  <text x="682" y="230" fill="#dce8ff">}</text>
+ </g>
+</g>
+<g font-family="Arial,sans-serif" font-size="10" font-weight="700">
+ <rect x="841" y="275" width="112" height="26" rx="13" fill="#1d3640" stroke="#5bc2bf" stroke-opacity=".55"/>
+ <circle cx="854" cy="288" r="4" fill="#61e8a1" class="pulse"/>
+ <text x="866" y="292" fill="#a8f0de" letter-spacing=".7">BUILD MODE</text>
+</g>
+</svg>
