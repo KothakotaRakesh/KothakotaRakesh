@@ -2,8 +2,6 @@
 
 # Hi, I'm Kothakota Rakesh 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=67E6D8&center=true&vCenter=true&width=660&lines=AI%2FML+Student;Full-Stack+Developer;Python+%7C+React+%7C+FastAPI;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Animated introduction: AI/ML student, full-stack developer, Python, React, FastAPI" />
-
 <a href="https://github.com/KothakotaRakesh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
 <a href="https://kothakotarakesh.github.io/Power2808-tech/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-67E6D8?style=for-the-badge&logo=githubpages&logoColor=081222" /></a>
