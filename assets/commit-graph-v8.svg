@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="377" viewBox="0 0 1200 377" role="img" aria-labelledby="title desc">
+<title id="title">Authored commits on eight latest active dates</title>
+<desc id="desc">Public authored commit records for KothakotaRakesh as of November 28 2026 UTC: October 30:10, November 10:25, November 18:8, November 22:18, November 25:20, November 26:1, November 27:25, November 28:22. This is historical repository activity, not the official GitHub contributions count.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101A21"/><stop offset="1" stop-color="#18252D"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#DDFB7D" stop-opacity="0"/><stop offset=".5" stop-color="#DDFB7D" stop-opacity=".9"/><stop offset="1" stop-color="#DDFB7D" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.entry{animation:rise 1.35s cubic-bezier(.22,.85,.26,1) both;transform-box:fill-box;transform-origin:center bottom}
+.scan{stroke-dasharray:38 62;animation:travel 14s linear infinite}
+.dot{animation:pulse 3s ease-in-out infinite}
+@keyframes rise{from{transform:scaleY(.04);opacity:.15}to{transform:scaleY(1);opacity:1}}
+@keyframes travel{to{stroke-dashoffset:-940}}
+@keyframes pulse{50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="377" rx="15" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="375" rx="14" stroke="#5B7780" stroke-opacity=".62" stroke-width="2" fill="none"/>
+<path d="M28 64H1171" stroke="#6B848A" stroke-opacity=".38"/>
+<path d="M28 64H1171" stroke="url(#shine)" stroke-width="2.7" class="scan"/>
+<text x="31" y="40" font-family="Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="1.55" fill="#F5F6EF">RECENT COMMIT HISTORY</text>
+<circle cx="939" cy="33" r="5" fill="#DDFB7D" class="dot"/>
+<text x="958" y="39" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#B4C9C9">PUBLIC REPOS / UTC</text>
+<text x="32" y="357" font-family="Arial,sans-serif" font-size="14" fill="#99B0B5">The last eight dates with authored commits · historical snapshot: 28 Nov 2026</text>
+<path d="M114 294H1159" stroke="#718890" stroke-opacity=".22" stroke-dasharray="4 10"/><text x="96" y="300" text-anchor="end" fill="#9BB2BA" font-size="17" font-family="Arial,sans-serif">0</text>
+<path d="M114 228H1159" stroke="#718890" stroke-opacity=".22" stroke-dasharray="4 10"/><text x="96" y="234" text-anchor="end" fill="#9BB2BA" font-size="17" font-family="Arial,sans-serif">10</text>
+<path d="M114 162H1159" stroke="#718890" stroke-opacity=".22" stroke-dasharray="4 10"/><text x="96" y="168" text-anchor="end" fill="#9BB2BA" font-size="17" font-family="Arial,sans-serif">20</text>
+<path d="M114 129H1159" stroke="#718890" stroke-opacity=".22" stroke-dasharray="4 10"/><text x="96" y="135" text-anchor="end" fill="#9BB2BA" font-size="17" font-family="Arial,sans-serif">25</text>
+<g class="entry" style="animation-delay:0.00s">
+ <rect x="138.0" y="228.0" width="65" height="66.0" rx="8" fill="#7FB6BC" opacity="0.88"/>
+ <rect x="147.0" y="237.0" width="4" height="48.0" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="170.5" y="212.0" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">10</text>
+ <text x="170.5" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">30 OCT</text>
+ </g>
+<g class="entry" style="animation-delay:0.14s">
+ <rect x="267.5" y="129.0" width="65" height="165.0" rx="8" fill="#7FB6BC" opacity="0.88"/>
+ <rect x="276.5" y="138.0" width="4" height="147.0" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="300.0" y="113.0" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">25</text>
+ <text x="300.0" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">10 NOV</text>
+ </g>
+<g class="entry" style="animation-delay:0.28s">
+ <rect x="397.0" y="241.2" width="65" height="52.8" rx="8" fill="#7FB6BC" opacity="0.88"/>
+ <rect x="406.0" y="250.2" width="4" height="34.8" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="429.5" y="225.2" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">8</text>
+ <text x="429.5" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">18 NOV</text>
+ </g>
+<g class="entry" style="animation-delay:0.42s">
+ <rect x="526.5" y="175.2" width="65" height="118.8" rx="8" fill="#7FB6BC" opacity="0.88"/>
+ <rect x="535.5" y="184.2" width="4" height="100.8" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="559.0" y="159.2" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">18</text>
+ <text x="559.0" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">22 NOV</text>
+ </g>
+<g class="entry" style="animation-delay:0.56s">
+ <rect x="656.0" y="162.0" width="65" height="132.0" rx="8" fill="#7FB6BC" opacity="0.88"/>
+ <rect x="665.0" y="171.0" width="4" height="114.0" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="688.5" y="146.0" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">20</text>
+ <text x="688.5" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">25 NOV</text>
+ </g>
+<g class="entry" style="animation-delay:0.70s">
+ <rect x="785.5" y="287.4" width="65" height="6.6" rx="8" fill="#7FB6BC" opacity="0.88"/>
+ <rect x="794.5" y="296.4" width="4" height="0.0" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="818.0" y="271.4" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">1</text>
+ <text x="818.0" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">26 NOV</text>
+ </g>
+<g class="entry" style="animation-delay:0.84s">
+ <rect x="915.0" y="129.0" width="65" height="165.0" rx="8" fill="#B4E1C2" opacity="0.88"/>
+ <rect x="924.0" y="138.0" width="4" height="147.0" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="947.5" y="113.0" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">25</text>
+ <text x="947.5" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">27 NOV</text>
+ </g>
+<g class="entry" style="animation-delay:0.98s">
+ <rect x="1044.5" y="148.8" width="65" height="145.2" rx="8" fill="#DFFB81" opacity="1"/>
+ <rect x="1053.5" y="157.8" width="4" height="127.2" rx="2" fill="#F3FFF0" opacity=".27"/>
+ <text x="1077.0" y="132.8" fill="#F4F6F0" font-family="Arial,sans-serif" font-size="21" font-weight="800" text-anchor="middle">22</text>
+ <text x="1077.0" y="328" fill="#BED0CF" font-family="Arial,sans-serif" font-size="16" font-weight="700" text-anchor="middle">28 NOV</text>
+ </g>
+</svg>
