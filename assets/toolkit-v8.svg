@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="423" viewBox="0 0 1200 423" role="img" aria-labelledby="title desc">
+<title id="title">Kothakota Rakesh technical toolkit</title>
+<desc id="desc">Clean animated 2-by-2 skill panel: interface and web development, API and backend engineering, machine learning and algorithms, and developer workflow.</desc>
+<style>
+.tile{animation:lift 8s ease-in-out infinite}
+.run{stroke-dasharray:65 45;animation:trace 11s linear infinite}
+.twinkle{animation:glow 3s ease-in-out infinite}
+@keyframes lift{50%{transform:translateY(-3px)}}
+@keyframes trace{to{stroke-dashoffset:-500}}
+@keyframes glow{50%{opacity:.26}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="423" rx="15" fill="#121D24"/>
+<rect x="1" y="1" width="1198" height="421" rx="14" stroke="#658087" stroke-opacity=".56" stroke-width="2" fill="none"/>
+<text x="27" y="42" font-family="Arial,sans-serif" font-size="21" font-weight="800" fill="#F6F8F1" letter-spacing="1.5">THINGS I WORK WITH</text>
+<text x="1175" y="42" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#ACBEC4" font-weight="700" letter-spacing="1.1">PRACTICE · BUILD · IMPROVE</text>
+<path d="M26 54H1174" stroke="#90A9AC" stroke-opacity=".28"/>
+<g class="tile" style="animation-delay:0.00s">
+  <rect x="26" y="72" width="565" height="154" rx="12" fill="#1B2830" stroke="#66818A" stroke-opacity=".59" stroke-width="1.5"/>
+  <path d="M42 84H575" stroke="#DDFB83" stroke-width="2.2" stroke-opacity=".74" class="run"/>
+  <rect x="47" y="96" width="50" height="47" rx="9" fill="#142127" stroke="#DDFB83" stroke-opacity=".65"/>
+  <text x="72" y="127" font-size="18" fill="#DDFB83" font-family="Arial,sans-serif" font-weight="800" text-anchor="middle">&lt;/&gt;</text>
+  <text x="117" y="130" font-size="29" fill="#F5F6ED" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.5">Interface &amp; web</text>
+  <text x="48" y="173" font-size="20" fill="#D5E1DE" font-family="Arial,sans-serif" font-weight="600">React · Next.js · JavaScript · HTML / CSS</text>
+  <text x="48" y="202" font-size="16" fill="#9CB3B5" font-family="Arial,sans-serif">Building responsive, usable experiences</text>
+  <circle cx="562" cy="197" r="4.8" fill="#DDFB83" class="twinkle"/>
+</g>
+<g class="tile" style="animation-delay:-1.20s">
+  <rect x="609" y="72" width="565" height="154" rx="12" fill="#1B2830" stroke="#66818A" stroke-opacity=".59" stroke-width="1.5"/>
+  <path d="M625 84H1158" stroke="#94C5CF" stroke-width="2.2" stroke-opacity=".74" class="run"/>
+  <rect x="630" y="96" width="50" height="47" rx="9" fill="#142127" stroke="#94C5CF" stroke-opacity=".65"/>
+  <text x="655" y="127" font-size="18" fill="#94C5CF" font-family="Arial,sans-serif" font-weight="800" text-anchor="middle">{}</text>
+  <text x="700" y="130" font-size="29" fill="#F5F6ED" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.5">APIs &amp; backend</text>
+  <text x="631" y="173" font-size="20" fill="#D5E1DE" font-family="Arial,sans-serif" font-weight="600">Python · FastAPI · Flask · SQL</text>
+  <text x="631" y="202" font-size="16" fill="#9CB3B5" font-family="Arial,sans-serif">Connecting applications, data and logic</text>
+  <circle cx="1145" cy="197" r="4.8" fill="#94C5CF" class="twinkle"/>
+</g>
+<g class="tile" style="animation-delay:-2.40s">
+  <rect x="26" y="244" width="565" height="154" rx="12" fill="#1B2830" stroke="#66818A" stroke-opacity=".59" stroke-width="1.5"/>
+  <path d="M42 256H575" stroke="#F2B49A" stroke-width="2.2" stroke-opacity=".74" class="run"/>
+  <rect x="47" y="268" width="50" height="47" rx="9" fill="#142127" stroke="#F2B49A" stroke-opacity=".65"/>
+  <text x="72" y="299" font-size="26" fill="#F2B49A" font-family="Arial,sans-serif" font-weight="800" text-anchor="middle">✳</text>
+  <text x="117" y="302" font-size="29" fill="#F5F6ED" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.5">ML &amp; algorithms</text>
+  <text x="48" y="345" font-size="20" fill="#D5E1DE" font-family="Arial,sans-serif" font-weight="600">Machine Learning · Graphs · Data Structures</text>
+  <text x="48" y="374" font-size="16" fill="#9CB3B5" font-family="Arial,sans-serif">Exploring models and how algorithms behave</text>
+  <circle cx="562" cy="369" r="4.8" fill="#F2B49A" class="twinkle"/>
+</g>
+<g class="tile" style="animation-delay:-3.60s">
+  <rect x="609" y="244" width="565" height="154" rx="12" fill="#1B2830" stroke="#66818A" stroke-opacity=".59" stroke-width="1.5"/>
+  <path d="M625 256H1158" stroke="#B5D1C0" stroke-width="2.2" stroke-opacity=".74" class="run"/>
+  <rect x="630" y="268" width="50" height="47" rx="9" fill="#142127" stroke="#B5D1C0" stroke-opacity=".65"/>
+  <text x="655" y="299" font-size="26" fill="#B5D1C0" font-family="Arial,sans-serif" font-weight="800" text-anchor="middle">⌘</text>
+  <text x="700" y="302" font-size="29" fill="#F5F6ED" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.5">Developer workflow</text>
+  <text x="631" y="345" font-size="20" fill="#D5E1DE" font-family="Arial,sans-serif" font-weight="600">Git · GitHub · Docker · Cybersecurity</text>
+  <text x="631" y="374" font-size="16" fill="#9CB3B5" font-family="Arial,sans-serif">Testing, debugging and learning new systems</text>
+  <circle cx="1145" cy="369" r="4.8" fill="#B5D1C0" class="twinkle"/>
+</g>
+</svg>
