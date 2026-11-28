@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">GitHub annual activity circle and verified key figures</title>
+<desc id="desc">6 active months of 12 between December 2025 and November 2026. At data collection there were 143 authored commits, 9 public repositories with authored commits, and 13 active dates. Figures reflect public GitHub repository commits, not official GitHub contributions.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101A21"/><stop offset="1" stop-color="#18252D"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D9FB7B" stop-opacity=".15"/><stop offset=".6" stop-color="#D9FB7B"/><stop offset="1" stop-color="#8AB9C0" stop-opacity=".2"/></linearGradient></defs>
+<style>
+.pulse{animation:pulse 5s ease-in-out infinite}
+.orbit{transform-origin:207px 168px;animation:spin 36s linear infinite}
+.stat{animation:glow 7s ease-in-out infinite}
+.sweep{stroke-dasharray:36 44;animation:travel 12s linear infinite}
+@keyframes pulse{50%{stroke-opacity:.45}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes glow{50%{opacity:.8}}
+@keyframes travel{to{stroke-dashoffset:-600}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="290" rx="15" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="288" rx="14" stroke="#5B7780" stroke-opacity=".63" stroke-width="2" fill="none"/>
+<path d="M24 53H1176" stroke="#A4B9B6" stroke-opacity=".19"/>
+<path d="M24 53H1176" stroke="url(#accent)" stroke-width="2.4" class="sweep"/>
+<text x="25" y="35" fill="#F3F5ED" font-size="20" font-family="Arial,sans-serif" letter-spacing="1.7" font-weight="800">ONE YEAR IN MOTION</text>
+<text x="1175" y="35" text-anchor="end" fill="#A9BFC2" font-size="13" font-family="Arial,sans-serif" letter-spacing="1.35">NOV 2025 — NOV 2026</text>
+<circle cx="207" cy="168" r="119" fill="none" stroke="#6B878D" stroke-opacity=".28"/>
+<g class="orbit"><path d="M207.00 49.00 A119 119 0 0 1 317.33 123.42" fill="none" stroke="#D9FA80" stroke-width="2.5" stroke-linecap="round"/><circle cx="207" cy="49" r="4" fill="#D9FA80"/></g>
+<path d="M215.02 76.35 A92 92 0 0 1 245.88 84.62" fill="none" stroke="#34464D" stroke-width="16" stroke-linecap="round" class="" style="animation-delay:0.00s"/>
+<path d="M259.77 92.64 A92 92 0 0 1 282.36 115.23" fill="none" stroke="#34464D" stroke-width="16" stroke-linecap="round" class="" style="animation-delay:0.27s"/>
+<path d="M290.38 129.12 A92 92 0 0 1 298.65 159.98" fill="none" stroke="#9BC6C0" stroke-width="16" stroke-linecap="round" class="pulse" style="animation-delay:0.54s"/>
+<path d="M298.65 176.02 A92 92 0 0 1 290.38 206.88" fill="none" stroke="#9BC6C0" stroke-width="16" stroke-linecap="round" class="pulse" style="animation-delay:0.81s"/>
+<path d="M282.36 220.77 A92 92 0 0 1 259.77 243.36" fill="none" stroke="#34464D" stroke-width="16" stroke-linecap="round" class="" style="animation-delay:1.08s"/>
+<path d="M245.88 251.38 A92 92 0 0 1 215.02 259.65" fill="none" stroke="#34464D" stroke-width="16" stroke-linecap="round" class="" style="animation-delay:1.35s"/>
+<path d="M198.98 259.65 A92 92 0 0 1 168.12 251.38" fill="none" stroke="#34464D" stroke-width="16" stroke-linecap="round" class="" style="animation-delay:1.62s"/>
+<path d="M154.23 243.36 A92 92 0 0 1 131.64 220.77" fill="none" stroke="#34464D" stroke-width="16" stroke-linecap="round" class="" style="animation-delay:1.89s"/>
+<path d="M123.62 206.88 A92 92 0 0 1 115.35 176.02" fill="none" stroke="#9BC6C0" stroke-width="16" stroke-linecap="round" class="pulse" style="animation-delay:2.16s"/>
+<path d="M115.35 159.98 A92 92 0 0 1 123.62 129.12" fill="none" stroke="#9BC6C0" stroke-width="16" stroke-linecap="round" class="pulse" style="animation-delay:2.43s"/>
+<path d="M131.64 115.23 A92 92 0 0 1 154.23 92.64" fill="none" stroke="#9BC6C0" stroke-width="16" stroke-linecap="round" class="pulse" style="animation-delay:2.70s"/>
+<path d="M168.12 84.62 A92 92 0 0 1 198.98 76.35" fill="none" stroke="#DAFA82" stroke-width="16" stroke-linecap="round" class="pulse" style="animation-delay:2.97s"/>
+<circle cx="207" cy="168" r="71" fill="#16232C" stroke="#4E6B72"/>
+<text x="207" y="170" fill="#F5F5ED" text-anchor="middle" font-size="52" font-family="Arial,sans-serif" font-weight="800">6<tspan font-size="28" fill="#AABFC4">/12</tspan></text>
+<text x="207" y="194" fill="#9FC0C1" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" letter-spacing="1.4" font-weight="800">MONTHS</text>
+<g class="stat" style="animation-delay:0s"><rect x="380" y="80" width="248" height="171" rx="13" fill="#1C2931" stroke="#58747B" stroke-opacity=".6"/><path d="M399 112H609" stroke="#DAFA82" stroke-width="2" stroke-opacity=".72"/><text x="400" y="173" fill="#DAFA82" font-size="58" font-family="Arial,sans-serif" font-weight="800">143</text><text x="400" y="201" fill="#F0F3EB" font-size="14" font-family="Arial,sans-serif" letter-spacing="1.1" font-weight="800">AUTHORED COMMITS</text><text x="400" y="228" fill="#91A8B0" font-size="13" font-family="Arial,sans-serif">Across public repositories</text></g>
+<g class="stat" style="animation-delay:-1.2s"><rect x="643" y="80" width="248" height="171" rx="13" fill="#1C2931" stroke="#58747B" stroke-opacity=".6"/><path d="M662 112H872" stroke="#8DC2C4" stroke-width="2" stroke-opacity=".72"/><text x="663" y="173" fill="#8DC2C4" font-size="58" font-family="Arial,sans-serif" font-weight="800">09</text><text x="663" y="201" fill="#F0F3EB" font-size="14" font-family="Arial,sans-serif" letter-spacing="1.1" font-weight="800">ACTIVE REPOSITORIES</text><text x="663" y="228" fill="#91A8B0" font-size="13" font-family="Arial,sans-serif">With authored history</text></g>
+<g class="stat" style="animation-delay:-2.4s"><rect x="906" y="80" width="248" height="171" rx="13" fill="#1C2931" stroke="#58747B" stroke-opacity=".6"/><path d="M925 112H1135" stroke="#F0B79A" stroke-width="2" stroke-opacity=".72"/><text x="926" y="173" fill="#F0B79A" font-size="58" font-family="Arial,sans-serif" font-weight="800">13</text><text x="926" y="201" fill="#F0F3EB" font-size="14" font-family="Arial,sans-serif" letter-spacing="1.1" font-weight="800">ACTIVE DATES</text><text x="926" y="228" fill="#91A8B0" font-size="13" font-family="Arial,sans-serif">In the selected year</text></g>
+<text x="207" y="281" fill="#93ABB0" text-anchor="middle" font-size="11" font-family="Arial,sans-serif">FEB · MAR · AUG · SEP · OCT · NOV</text>
+</svg>
