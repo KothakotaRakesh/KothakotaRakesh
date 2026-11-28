@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="138" viewBox="0 0 1200 138" role="img" aria-labelledby="title">
+<title id="title">Kothakota Rakesh developer signature — Build with purpose, keep learning</title>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d192b"/><stop offset="1" stop-color="#11172a"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64dfd2" stop-opacity="0"/><stop offset=".34" stop-color="#64dfd2"/><stop offset=".72" stop-color="#a99afa"/><stop offset="1" stop-color="#a99afa" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+ .flow{stroke-dasharray:28 24;animation:run 11s linear infinite}
+ .pulse{animation:pulse 3s ease-in-out infinite}
+ @keyframes run{to{stroke-dashoffset:-780}}
+ @keyframes pulse{50%{opacity:.4}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="138" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="136" rx="17" fill="none" stroke="#5c7797" stroke-opacity=".42" stroke-width="2"/>
+<path d="M39 27H1161" stroke="url(#edge)" stroke-width="3" class="flow" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="600" y="81" fill="#f1f8ff" font-size="34" font-weight="900" letter-spacing="1.8">BUILD WITH PURPOSE. KEEP LEARNING.</text>
+ <text x="600" y="112" fill="#9cc8da" font-size="15" letter-spacing="3" font-weight="700">KOTHAKOTA RAKESH  ·  DEVELOPER / CREATOR</text>
+</g>
+<circle cx="39" cy="100" r="5" fill="#78edcc" class="pulse"/><circle cx="1161" cy="100" r="5" fill="#b19fff" class="pulse"/>
+</svg>
