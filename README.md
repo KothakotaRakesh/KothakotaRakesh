@@ -1,51 +1,55 @@
 <div align="center">
 
-<img src="./assets/hero-v7.svg" width="100%" alt="Kothakota Rakesh — graphite and orange developer banner with an animated monogram and orbit." />
+<img src="./assets/hero-v8.svg" width="100%" alt="Kothakota Rakesh — animated developer nameplate with a rotating orbital monogram, midnight ink background and citrus details." />
 
 <br />
 
-<a href="https://github.com/KothakotaRakesh" title="Explore my GitHub account">
-  <img src="./assets/github-v7.svg" width="270" alt="GitHub — repositories and source code" />
+<a href="https://github.com/KothakotaRakesh" title="Explore my GitHub repositories">
+  <img src="./assets/github-v8.svg" width="285" alt="GitHub — code and repositories" />
 </a>
-&nbsp;
-<a href="https://kothakotarakesh.github.io/Power2808-tech/" title="Open my portfolio and contact page">
-  <img src="./assets/portfolio-v7.svg" width="270" alt="Portfolio — contact and more" />
+&nbsp;&nbsp;
+<a href="https://kothakotarakesh.github.io/Power2808-tech/" title="Open my contact page and portfolio">
+  <img src="./assets/portfolio-v8.svg" width="285" alt="Portfolio — my personal contact page" />
 </a>
 
 </div>
 
-### Hello, I'm Rakesh.
+### A little about me
 
-I'm a B.Tech **Artificial Intelligence & Machine Learning** student at **Saveetha Institute of Medical and Technical Sciences, Chennai**.
+I'm **Kothakota Rakesh**, a B.Tech **Artificial Intelligence & Machine Learning** student at **Saveetha Institute of Medical and Technical Sciences, Chennai**.
 
-I enjoy building full-stack web applications, working with Python, and exploring how machine learning and algorithms can solve practical problems. I'm particularly interested in creating useful software with clear, responsive interfaces.
+I enjoy building full-stack applications and figuring out how things work behind the interface. Most of my learning happens by writing code, testing ideas, fixing problems, and making the next version better.
 
-### Activity on GitHub
+### GitHub activity
 
 <div align="center">
 
-<img src="./assets/activity-v7.svg" width="100%" alt="Circular chart showing six active months of twelve, with a bar graph of authored commits on eight recent active dates." />
+<img src="./assets/activity-circle-v8.svg" width="100%" alt="Animated twelve-month activity circle and verified public GitHub commit statistics." />
+
+<img src="./assets/commit-graph-v8.svg" width="100%" alt="Animated bar graph of authored commits on the eight most recent dates with activity, based on public repository history." />
 
 </div>
 
-<sub>**Data note:** This is a snapshot of public repository history as of **28 November 2026 (UTC)**: **134 authored commits** in **9 public repositories**, across **13 active dates** and **6 active months**. The chart displays the eight most recent active dates. Counts are not GitHub's official contribution total and do not update automatically.</sub>
+<sub>**Data source:** Public GitHub repository commit history, collected **28 November 2026 (UTC)** before the V8 updates: **143 authored commit records**, **9 repositories with authored commits**, **13 active dates**, and **6 active months** in the previous year. The graph shows only the eight most recent dates with commits. These are historical commit records, **not GitHub's official contribution totals**, and the graphics do not update automatically.</sub>
 
-### My toolkit
+### Tools I use and explore
 
 <div align="center">
 
-<img src="./assets/toolkit-v7.svg" width="100%" alt="Animated technology overview covering Python, JavaScript, C, HTML, CSS, SQL, React, Next.js, FastAPI, Flask, machine learning, graphs, Git and Docker." />
+<img src="./assets/toolkit-v8.svg" width="100%" alt="Animated four-panel technical overview: frontend, backend, machine learning and algorithms, and development workflow." />
 
 </div>
 
-<sub>These are tools I use or am actively learning, not a claim of equal proficiency in each one.</sub>
+I'm particularly interested in **Python, React, FastAPI, machine learning, graph algorithms and cybersecurity**. The toolkit includes technologies I'm using or actively learning.
 
-### A little more about me
+### Beyond the code
 
-- I like turning a project idea into a **working application** and improving it through testing.
-- I enjoy exploring **algorithms, cybersecurity, and machine learning** alongside web development.
-- My goal is to grow into a developer who builds software that people can rely on.
+I like taking ideas beyond a demo screen—connecting a usable interface to real logic, checking the results and learning from what breaks. Hackathons and academic work are opportunities to practise that process.
 
----
+<br />
 
-<sub>Based in India · Learning by building</sub>
+<div align="center">
+
+<img src="./assets/footer-v8.svg" width="100%" alt="Kothakota Rakesh — Still learning. Still building. Animated signature line." />
+
+</div>
