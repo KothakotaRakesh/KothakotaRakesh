@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Tools and technologies I use and am learning</title>
+<desc id="desc">Animated four-column editorial technical toolkit: programming languages, frontend, backend, AI and tools.</desc>
+<style>
+.card{animation:lift 7s ease-in-out infinite}
+.line{stroke-dasharray:25 20;animation:line 11s linear infinite}
+@keyframes lift{50%{transform:translateY(-3px)}}
+@keyframes line{to{stroke-dashoffset:-500}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="260" rx="14" fill="#151F23"/>
+<rect x="1" y="1" width="1198" height="258" rx="13" fill="none" stroke="#60726E" stroke-opacity=".6"/>
+<text x="32" y="43" font-family="Arial,sans-serif" fill="#F2A27B" letter-spacing="1.8" font-weight="800" font-size="21">THE TOOLKIT</text>
+<text x="1168" y="42" text-anchor="end" fill="#91A7A3" letter-spacing="1.1" font-family="Arial,sans-serif" font-size="14">IN USE  /  STILL LEARNING</text>
+<path d="M32 54H1168" stroke="#60736F" stroke-opacity=".4"/>
+<g class="card" style="animation-delay:0.00s">
+ <rect x="32" y="73" width="276" height="161" rx="9" fill="#202C31" stroke="#718580" stroke-opacity=".5"/>
+ <rect x="48" y="92" width="49" height="43" rx="7" fill="#141F24" stroke="#F18B64" stroke-opacity=".65"/>
+ <text x="72" y="121" font-family="Arial,sans-serif" font-size="16" font-weight="800" text-anchor="middle" fill="#F18B64">&lt;/&gt;</text>
+ <path d="M48 143H292" stroke="#F18B64" stroke-opacity=".35"/>
+ <text x="48" y="166" font-family="Arial,sans-serif" font-size="17" font-weight="800" letter-spacing=".8" fill="#F0F1EA">LANGUAGES</text>
+ <text x="48" y="191" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">Python · JavaScript</text>
+ <text x="48" y="214" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">C · HTML/CSS · SQL</text>
+ <path class="line" d="M48 226H292" stroke="#F18B64" stroke-width="2.5" stroke-opacity=".7"/>
+ </g>
+<g class="card" style="animation-delay:-1.35s">
+ <rect x="324" y="73" width="276" height="161" rx="9" fill="#202C31" stroke="#718580" stroke-opacity=".5"/>
+ <rect x="340" y="92" width="49" height="43" rx="7" fill="#141F24" stroke="#8FB9B1" stroke-opacity=".65"/>
+ <text x="364" y="121" font-family="Arial,sans-serif" font-size="25" font-weight="800" text-anchor="middle" fill="#8FB9B1">◫</text>
+ <path d="M340 143H584" stroke="#8FB9B1" stroke-opacity=".35"/>
+ <text x="340" y="166" font-family="Arial,sans-serif" font-size="17" font-weight="800" letter-spacing=".8" fill="#F0F1EA">FRONTEND</text>
+ <text x="340" y="191" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">React · Next.js</text>
+ <text x="340" y="214" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">Responsive UI</text>
+ <path class="line" d="M340 226H584" stroke="#8FB9B1" stroke-width="2.5" stroke-opacity=".7"/>
+ </g>
+<g class="card" style="animation-delay:-2.70s">
+ <rect x="616" y="73" width="276" height="161" rx="9" fill="#202C31" stroke="#718580" stroke-opacity=".5"/>
+ <rect x="632" y="92" width="49" height="43" rx="7" fill="#141F24" stroke="#E2AE85" stroke-opacity=".65"/>
+ <text x="656" y="121" font-family="Arial,sans-serif" font-size="25" font-weight="800" text-anchor="middle" fill="#E2AE85">⌘</text>
+ <path d="M632 143H876" stroke="#E2AE85" stroke-opacity=".35"/>
+ <text x="632" y="166" font-family="Arial,sans-serif" font-size="17" font-weight="800" letter-spacing=".8" fill="#F0F1EA">BACKEND</text>
+ <text x="632" y="191" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">FastAPI · Flask</text>
+ <text x="632" y="214" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">REST APIs · SQL</text>
+ <path class="line" d="M632 226H876" stroke="#E2AE85" stroke-width="2.5" stroke-opacity=".7"/>
+ </g>
+<g class="card" style="animation-delay:-4.05s">
+ <rect x="908" y="73" width="276" height="161" rx="9" fill="#202C31" stroke="#718580" stroke-opacity=".5"/>
+ <rect x="924" y="92" width="49" height="43" rx="7" fill="#141F24" stroke="#A0BBB5" stroke-opacity=".65"/>
+ <text x="948" y="121" font-family="Arial,sans-serif" font-size="25" font-weight="800" text-anchor="middle" fill="#A0BBB5">✳</text>
+ <path d="M924 143H1168" stroke="#A0BBB5" stroke-opacity=".35"/>
+ <text x="924" y="166" font-family="Arial,sans-serif" font-size="17" font-weight="800" letter-spacing=".8" fill="#F0F1EA">AI &amp; TOOLS</text>
+ <text x="924" y="191" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">Machine Learning</text>
+ <text x="924" y="214" font-family="Arial,sans-serif" font-size="15.5" fill="#C1CECB">Graphs · Git · Docker</text>
+ <path class="line" d="M924 226H1168" stroke="#A0BBB5" stroke-width="2.5" stroke-opacity=".7"/>
+ </g>
+</svg>
