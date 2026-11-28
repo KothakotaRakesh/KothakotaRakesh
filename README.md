@@ -16,6 +16,18 @@
 
 <br />
 
+### GitHub activity
+
+<div align="center">
+
+<img src="./assets/activity-v6.svg" width="100%" alt="Animated circular activity chart and real public-repository authored commit bar graph, captured 28 November 2026" />
+
+</div>
+
+<sub>Snapshot taken 28 November 2026 from public repository commit history. It shows **134 authored commit records across 9 public repositories**, activity in **6 of 12 months**, and a chart of the **8 most recent dates with commits**. This is not GitHub's official contribution total and will not update automatically. The current contribution calendar is available farther down on your GitHub profile.</sub>
+
+<br />
+
 ### Hi, I'm Rakesh.
 
 I'm studying **Artificial Intelligence & Machine Learning** at **Saveetha Institute of Medical and Technical Sciences, Chennai**.
@@ -23,6 +35,12 @@ I'm studying **Artificial Intelligence & Machine Learning** at **Saveetha Instit
 I enjoy building things for the web and understanding the logic behind them. My interests sit somewhere between clean interfaces, Python backends, machine learning, and solving problems with algorithms.
 
 ### What I work with
+
+<div align="center">
+
+<img src="./assets/toolkit-v6.svg" width="100%" alt="Animated toolkit strip: Python, JavaScript, React, FastAPI, SQL and Git" />
+
+</div>
 
 | Area | Technologies & interests |
 | :--- | :--- |
