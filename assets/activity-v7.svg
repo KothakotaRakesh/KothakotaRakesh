@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="468" viewBox="0 0 1200 468" role="img" aria-labelledby="title desc">
+<title id="title">Kothakota Rakesh — public repository commit activity</title>
+<desc id="desc">6 out of 12 months active, 134 authored commits from 9 public repositories in a 12-month snapshot ending 28 November 2026. The column chart shows 8 latest dates with authored commits in repository history, using GitHub API data. This is not the official GitHub contribution count.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121B20"/><stop offset="1" stop-color="#17232A"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F18B64" stop-opacity=".15"/><stop offset=".6" stop-color="#F18B64"/><stop offset="1" stop-color="#F18B64" stop-opacity=".1"/></linearGradient>
+<pattern id="pattern" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" stroke="#C2D1CE" stroke-opacity=".025" fill="none"/></pattern></defs>
+<style>
+.segment.lit{animation:breath 5s ease-in-out infinite}
+.entry{animation:rise 1.35s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:center bottom}
+.orbit{transform-origin:220px 260px;animation:spin 23s linear infinite}
+.trace{stroke-dasharray:52 22;animation:dash 14s linear infinite}
+.glow{animation:breath 3.3s ease-in-out infinite}
+@keyframes breath{50%{opacity:.5}}
+@keyframes rise{from{transform:scaleY(.04);opacity:.18}to{transform:scaleY(1);opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes dash{to{stroke-dashoffset:-580}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="468" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="468" rx="16" fill="url(#pattern)"/>
+<rect x="1" y="1" width="1198" height="466" rx="15" stroke="#667875" stroke-opacity=".58" stroke-width="2" fill="none"/>
+<rect x="26" y="72" width="400" height="360" rx="10" fill="#18252A" stroke="#536661" stroke-opacity=".55"/>
+<rect x="443" y="72" width="730" height="360" rx="10" fill="#18252A" stroke="#536661" stroke-opacity=".55"/>
+<path d="M26 59H1173" stroke="#667875" stroke-opacity=".4"/>
+<path d="M26 59H1173" stroke="url(#warm)" stroke-width="2.8" class="trace"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="29" y="40" font-size="23" font-weight="800" fill="#F4F0E9" letter-spacing="1.5">GITHUB / COMMIT ACTIVITY</text>
+<text x="1171" y="40" font-size="14" font-weight="700" fill="#B1C3BF" letter-spacing="1" text-anchor="end">SNAPSHOT   •   28 NOV 2026</text>
+<text x="46" y="107" font-size="14" font-weight="700" fill="#B6C9C2" letter-spacing="2">MONTHLY CONSISTENCY</text>
+<text x="467" y="108" font-size="15" font-weight="700" fill="#B6C9C2" letter-spacing="2">RECENT ACTIVE DATES</text>
+<text x="467" y="146" font-size="27" font-weight="800" fill="#F4F0E9">Authored commits</text>
+<text x="467" y="170" font-size="15.5" fill="#A5B9B5">Last 8 dates with recorded commits</text>
+</g>
+<circle cx="220" cy="260" r="86" fill="#152125" stroke="#536864" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="220" cy="260" r="129" stroke="#829995" stroke-opacity=".24" fill="none"/>
+<g class="orbit"><path d="M220.00 131.00 A129 129 0 0 1 345.69 230.98" stroke="#EFA079" stroke-width="2.8" fill="none"/><circle cx="220" cy="131" r="4.5" fill="#F18B64"/></g>
+<path class="segment " style="animation-delay:0.00s" d="M225.50 155.14 A105 105 0 0 1 267.67 166.44" fill="none" stroke="#36444A" stroke-opacity="0.75" stroke-width="16" stroke-linecap="round"/>
+<path class="segment lit" style="animation-delay:-0.27s" d="M277.19 171.94 A105 105 0 0 1 308.06 202.81" fill="none" stroke="#87B7B1" stroke-opacity="1" stroke-width="16" stroke-linecap="round"/>
+<path class="segment lit" style="animation-delay:-0.54s" d="M313.56 212.33 A105 105 0 0 1 324.86 254.50" fill="none" stroke="#87B7B1" stroke-opacity="1" stroke-width="16" stroke-linecap="round"/>
+<path class="segment " style="animation-delay:-0.81s" d="M324.86 265.50 A105 105 0 0 1 313.56 307.67" fill="none" stroke="#36444A" stroke-opacity="0.75" stroke-width="16" stroke-linecap="round"/>
+<path class="segment " style="animation-delay:-1.08s" d="M308.06 317.19 A105 105 0 0 1 277.19 348.06" fill="none" stroke="#36444A" stroke-opacity="0.75" stroke-width="16" stroke-linecap="round"/>
+<path class="segment " style="animation-delay:-1.35s" d="M267.67 353.56 A105 105 0 0 1 225.50 364.86" fill="none" stroke="#36444A" stroke-opacity="0.75" stroke-width="16" stroke-linecap="round"/>
+<path class="segment " style="animation-delay:-1.62s" d="M214.50 364.86 A105 105 0 0 1 172.33 353.56" fill="none" stroke="#36444A" stroke-opacity="0.75" stroke-width="16" stroke-linecap="round"/>
+<path class="segment lit" style="animation-delay:-1.89s" d="M162.81 348.06 A105 105 0 0 1 131.94 317.19" fill="none" stroke="#F58B63" stroke-opacity="1" stroke-width="16" stroke-linecap="round"/>
+<path class="segment lit" style="animation-delay:-2.16s" d="M126.44 307.67 A105 105 0 0 1 115.14 265.50" fill="none" stroke="#F58B63" stroke-opacity="1" stroke-width="16" stroke-linecap="round"/>
+<path class="segment lit" style="animation-delay:-2.43s" d="M115.14 254.50 A105 105 0 0 1 126.44 212.33" fill="none" stroke="#F58B63" stroke-opacity="1" stroke-width="16" stroke-linecap="round"/>
+<path class="segment lit" style="animation-delay:-2.70s" d="M131.94 202.81 A105 105 0 0 1 162.81 171.94" fill="none" stroke="#F58B63" stroke-opacity="1" stroke-width="16" stroke-linecap="round"/>
+<path class="segment " style="animation-delay:-2.97s" d="M172.33 166.44 A105 105 0 0 1 214.50 155.14" fill="none" stroke="#36444A" stroke-opacity="0.75" stroke-width="16" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<text x="220" y="267" fill="#F6F3EB" font-size="60" font-weight="800">6<tspan fill="#A4B5B0" font-size="30">/12</tspan></text>
+<text x="220" y="291" fill="#A8BAB6" font-size="13.5" letter-spacing="1.6" font-weight="700">ACTIVE MONTHS</text>
+<text x="220" y="409" fill="#EFA179" font-size="15.5" font-weight="700">134 commits · 9 repositories</text>
+</g>
+<path d="M489 387H1133" stroke="#99ABA7" stroke-opacity=".17" stroke-dasharray="4 8"/><text x="477" y="392" text-anchor="end" font-size="14" fill="#9EB1AE">0</text>
+<path d="M489 323H1133" stroke="#99ABA7" stroke-opacity=".17" stroke-dasharray="4 8"/><text x="477" y="328" text-anchor="end" font-size="14" fill="#9EB1AE">10</text>
+<path d="M489 259H1133" stroke="#99ABA7" stroke-opacity=".17" stroke-dasharray="4 8"/><text x="477" y="264" text-anchor="end" font-size="14" fill="#9EB1AE">20</text>
+<path d="M489 227H1133" stroke="#99ABA7" stroke-opacity=".17" stroke-dasharray="4 8"/><text x="477" y="232" text-anchor="end" font-size="14" fill="#9EB1AE">25</text>
+<g class="entry" style="animation-delay:0.00s">
+  <rect x="507" y="323" width="38" height="64" rx="4" fill="#749E9D" />
+  <path d="M512 331V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="526" y="310" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">10</text>
+  <text x="526" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">30 Oct</text>
+ </g>
+<g class="entry" style="animation-delay:0.13s">
+  <rect x="585" y="227" width="38" height="160" rx="4" fill="#749E9D" />
+  <path d="M590 235V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="604" y="214" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">25</text>
+  <text x="604" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">10 Nov</text>
+ </g>
+<g class="entry" style="animation-delay:0.26s">
+  <rect x="663" y="335.8" width="38" height="51.2" rx="4" fill="#749E9D" />
+  <path d="M668 343.8V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="682" y="322.8" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">8</text>
+  <text x="682" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">18 Nov</text>
+ </g>
+<g class="entry" style="animation-delay:0.39s">
+  <rect x="741" y="271.8" width="38" height="115.2" rx="4" fill="#749E9D" />
+  <path d="M746 279.8V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="760" y="258.8" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">18</text>
+  <text x="760" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">22 Nov</text>
+ </g>
+<g class="entry" style="animation-delay:0.52s">
+  <rect x="819" y="259" width="38" height="128" rx="4" fill="#749E9D" />
+  <path d="M824 267V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="838" y="246" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">20</text>
+  <text x="838" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">25 Nov</text>
+ </g>
+<g class="entry" style="animation-delay:0.65s">
+  <rect x="897" y="380.6" width="38" height="6.4" rx="4" fill="#749E9D" />
+  <path d="M902 388.6V389.6" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="916" y="367.6" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">1</text>
+  <text x="916" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">26 Nov</text>
+ </g>
+<g class="entry" style="animation-delay:0.78s">
+  <rect x="975" y="227" width="38" height="160" rx="4" fill="#F5A074" />
+  <path d="M980 235V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="994" y="214" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">25</text>
+  <text x="994" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">27 Nov</text>
+ </g>
+<g class="entry" style="animation-delay:0.91s">
+  <rect x="1053" y="303.8" width="38" height="83.2" rx="4" fill="#749E9D" />
+  <path d="M1058 311.8V379" stroke="#E7F1E9" stroke-opacity=".35" stroke-width="2" />
+  <text x="1072" y="290.8" text-anchor="middle" font-size="19" font-weight="800" fill="#F4F0E7">13</text>
+  <text x="1072" y="415" text-anchor="middle" font-size="15" fill="#B7C5C2">28 Nov</text>
+ </g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="468" y="454" fill="#9AADA9" font-size="13.5">Public repository commit history, author-date UTC · historical snapshot, not live contributions</text>
+<circle cx="1148" cy="129" r="5" fill="#EFA179" class="glow"/>
+</g>
+</svg>
