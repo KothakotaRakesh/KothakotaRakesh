@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="106" viewBox="0 0 960 106" role="img" aria-labelledby="title">
+<title id="title">Kothakota Rakesh — keep building</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141F26"/><stop offset="1" stop-color="#202B30"/></linearGradient><linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F19D79" stop-opacity=".1"/><stop offset=".5" stop-color="#F19D79"/><stop offset="1" stop-color="#95B7B0" stop-opacity=".26"/></linearGradient></defs>
+<style>.line{stroke-dasharray:29 26;animation:go 12s linear infinite}.dot{animation:dim 3.5s ease-in-out infinite}@keyframes go{to{stroke-dashoffset:-630}}@keyframes dim{50%{opacity:.24}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="960" height="106" rx="13" fill="url(#bg)"/>
+<rect x="1" y="1" width="958" height="104" rx="12" stroke="#6A8181" stroke-opacity=".6" fill="none" stroke-width="1.5"/>
+<text x="24" y="45" font-family="Arial,sans-serif" font-size="25" fill="#F3F0E8" font-weight="800">Learning by building.</text>
+<text x="25" y="73" font-family="Arial,sans-serif" font-size="14.5" letter-spacing=".8" fill="#A8BFC0">KOTHAKOTA RAKESH  /  SOFTWARE &amp; AI</text>
+<path d="M445 54H557L571 34L593 74L612 50H657L673 40L688 70L706 53H851" stroke="#799D9E" stroke-opacity=".36" fill="none" stroke-width="2.2"/>
+<path d="M445 54H557L571 34L593 74L612 50H657L673 40L688 70L706 53H851" stroke="url(#pulse)" stroke-width="3.2" fill="none" class="line"/>
+<circle cx="862" cy="53" r="5" fill="#F1A07B" class="dot"/>
+<text x="933" y="74" font-family="Georgia,serif" font-style="italic" font-weight="700" font-size="40" fill="#F3A07E" text-anchor="end">KR.</text>
+</svg>
