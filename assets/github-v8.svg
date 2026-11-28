@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="88" viewBox="0 0 380 88" role="img" aria-label="GITHUB CODE & REPOSITORIES">
+ <style>
+ .arrow{animation:move 3.6s ease-in-out infinite}
+ .dash{stroke-dasharray:45 20;animation:run 11s linear infinite}
+ .led{animation:pulse 2.8s ease-in-out infinite}
+ @keyframes move{50%{transform:translate(3px,-3px)}}
+ @keyframes run{to{stroke-dashoffset:-520}}
+ @keyframes pulse{50%{opacity:.28}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+ <rect x="1" y="1" width="378" height="86" rx="13" fill="#202C32" stroke="#748E91" stroke-width="2"/>
+ <rect x="14" y="14" width="60" height="60" rx="10" fill="#142127" stroke="#5A7378" stroke-opacity=".72"/>
+ <text x="44" y="54" fill="#F3F5ED" font-size="21" font-family="Arial,Helvetica,sans-serif" font-weight="900" text-anchor="middle">{ }</text>
+ <text x="94" y="40" fill="#F3F5ED" font-size="23" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.2" font-weight="900">GITHUB</text>
+ <text x="94" y="61" fill="#ACBEC2" font-size="12.5" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.2" font-weight="700">CODE &amp; REPOSITORIES</text>
+ <g class="arrow"><path d="M331 28H353V51M353 28L331 52" stroke="#F3F5ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+ <path class="dash" d="M94 73H301" stroke="#86B6B7" stroke-width="1.5" stroke-opacity=".7"/>
+ <circle cx="363" cy="15" r="3" fill="#DAF780" class="led"/>
+ </svg>
