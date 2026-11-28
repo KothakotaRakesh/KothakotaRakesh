@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-labelledby="title">
+<title id="title">Kothakota Rakesh — still learning, still building</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121D24"/><stop offset="1" stop-color="#17232A"/></linearGradient><linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#DAFA82" stop-opacity=".2"/><stop offset=".54" stop-color="#DAFA82"/><stop offset="1" stop-color="#7EB5C2" stop-opacity=".1"/></linearGradient></defs>
+<style>
+.path{stroke-dasharray:46 30;animation:travel 11s linear infinite}
+.dot{animation:breath 4s ease-in-out infinite}
+@keyframes travel{to{stroke-dashoffset:-760}}
+@keyframes breath{50%{opacity:.3}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="126" rx="14" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="124" rx="13" fill="none" stroke="#62818A" stroke-opacity=".52" stroke-width="2"/>
+<text x="42" y="57" font-size="24" font-family="Arial,sans-serif" letter-spacing=".2" font-weight="800" fill="#F3F5EB">Still learning. Still building.</text>
+<text x="43" y="85" font-size="15" font-family="Arial,sans-serif" letter-spacing="1.2" fill="#ABC3C6">KOTHAKOTA RAKESH  /  DEVELOPER PROFILE</text>
+<path d="M545 71H675L697 50L717 94L735 67H760L778 53L800 92L818 69H1002" fill="none" stroke="#64818A" stroke-opacity=".42" stroke-width="2"/>
+<path d="M545 71H675L697 50L717 94L735 67H760L778 53L800 92L818 69H1002" fill="none" stroke="url(#stroke)" stroke-width="3.2" class="path"/>
+<g fill="#DFFB83"><circle cx="1036" cy="70" r="5.5" class="dot"/><circle cx="1064" cy="70" r="3.3" opacity=".48"/></g>
+<text x="1153" y="78" font-family="Georgia,serif" text-anchor="end" font-size="41" font-weight="700" font-style="italic" fill="#DDFB83">KR.</text>
+</svg>
