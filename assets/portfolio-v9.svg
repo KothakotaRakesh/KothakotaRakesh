@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="83" viewBox="0 0 380 83" role="img" aria-labelledby="title">
+<title id="title">PORTFOLIO — CONTACT &amp; PERSONAL PAGE</title>
+<style>
+.arrow{animation:nudge 3.5s ease-in-out infinite}
+.rule{stroke-dasharray:38 28;animation:slide 10s linear infinite}
+.led{animation:glow 3s ease-in-out infinite}
+@keyframes nudge{50%{transform:translate(3px,-3px)}}
+@keyframes slide{to{stroke-dashoffset:-510}}
+@keyframes glow{50%{opacity:.4}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="378" height="81" rx="12" fill="#E8916A" stroke="#F2A884" stroke-width="1.8"/>
+<rect x="12" y="12" width="56" height="58" rx="9" fill="#CB7958" stroke="#FFE2CE" stroke-opacity=".65"/>
+<text x="40" y="50" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#20282A">↗</text>
+<text x="85" y="36" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#20282A" letter-spacing="1.2">PORTFOLIO</text>
+<text x="85" y="57" font-family="Arial,sans-serif" font-size="12.7" font-weight="700" fill="#49342B" letter-spacing=".9">CONTACT &amp; PERSONAL PAGE</text>
+<g class="arrow"><path d="M332 26H355M355 26V49M355 26L332 49" fill="none" stroke="#20282A" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M85 68H300" fill="none" stroke="#764632" stroke-opacity=".8" class="rule" stroke-width="1.5"/>
+<circle cx="362" cy="12" r="2.9" fill="#FFE3CB" class="led"/>
+</svg>
