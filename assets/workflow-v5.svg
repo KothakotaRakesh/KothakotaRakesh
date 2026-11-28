@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="258" viewBox="0 0 1200 258" role="img" aria-labelledby="title desc">
+<title id="title">The development process — Learn, Design, Build, Improve</title>
+<desc id="desc">Animated four-step development workflow, connected with a luminous path and subtle motion.</desc>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d192c"/><stop offset="1" stop-color="#0d1426"/></linearGradient>
+<linearGradient id="wire" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#72ebd6"/><stop offset=".5" stop-color="#799fe8"/><stop offset="1" stop-color="#b7a0fd"/></linearGradient>
+<pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#d3ebff" stroke-opacity=".04"/></pattern>
+</defs>
+<style>
+ .flow{stroke-dasharray:15 13;animation:move 13s linear infinite}
+ .breathe{animation:breath 4s ease-in-out infinite}
+ .step2{animation-delay:-1s}.step3{animation-delay:-2s}.step4{animation-delay:-3s}
+ @keyframes move{to{stroke-dashoffset:-560}}
+ @keyframes breath{50%{opacity:.4}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="258" rx="19" fill="url(#background)"/>
+<rect width="1200" height="258" rx="19" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="256" rx="18" stroke="#536f93" stroke-opacity=".6" stroke-width="2" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="37" y="42" fill="#a1f3e6" font-weight="900" font-size="17" letter-spacing="2.4">HOW I WORK</text>
+ <text x="1163" y="42" text-anchor="end" fill="#8198b8" font-weight="700" font-size="13" letter-spacing="1.5">IDEA → EXECUTION</text>
+</g>
+<path d="M155 114H1045" fill="none" stroke="#435472" stroke-width="4" stroke-linecap="round"/>
+<path d="M155 114H1045" fill="none" stroke="url(#wire)" stroke-width="3" stroke-linecap="round" class="flow"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <g>
+  <circle cx="145" cy="114" r="35" fill="#183a45" stroke="#70e6d6" stroke-width="2"/>
+  <circle cx="145" cy="114" r="28" fill="none" stroke="#70e6d6" opacity=".3" class="breathe"/>
+  <text x="145" y="123" font-size="25" font-weight="900" text-anchor="middle" fill="#a3f5e8">01</text>
+  <text x="145" y="187" font-size="27" font-weight="900" text-anchor="middle" fill="#f0f7ff">LEARN</text>
+  <text x="145" y="213" font-size="15" text-anchor="middle" fill="#9eb6cd">Understand the goal</text>
+ </g>
+ <g>
+  <circle cx="445" cy="114" r="35" fill="#243651" stroke="#8bbaf1" stroke-width="2"/>
+  <circle cx="445" cy="114" r="28" fill="none" stroke="#8bbaf1" opacity=".35" class="breathe step2"/>
+  <text x="445" y="123" font-size="25" font-weight="900" text-anchor="middle" fill="#b7dafb">02</text>
+  <text x="445" y="187" font-size="27" font-weight="900" text-anchor="middle" fill="#f0f7ff">DESIGN</text>
+  <text x="445" y="213" font-size="15" text-anchor="middle" fill="#9eb6cd">Plan the solution</text>
+ </g>
+ <g>
+  <circle cx="745" cy="114" r="35" fill="#343454" stroke="#b2a3fb" stroke-width="2"/>
+  <circle cx="745" cy="114" r="28" fill="none" stroke="#b2a3fb" opacity=".35" class="breathe step3"/>
+  <text x="745" y="123" font-size="25" font-weight="900" text-anchor="middle" fill="#d7caff">03</text>
+  <text x="745" y="187" font-size="27" font-weight="900" text-anchor="middle" fill="#f0f7ff">BUILD</text>
+  <text x="745" y="213" font-size="15" text-anchor="middle" fill="#9eb6cd">Test the system</text>
+ </g>
+ <g>
+  <circle cx="1045" cy="114" r="35" fill="#2d3a50" stroke="#d2a7ee" stroke-width="2"/>
+  <circle cx="1045" cy="114" r="28" fill="none" stroke="#d2a7ee" opacity=".35" class="breathe step4"/>
+  <text x="1045" y="123" font-size="25" font-weight="900" text-anchor="middle" fill="#f3d3ff">04</text>
+  <text x="1045" y="187" font-size="27" font-weight="900" text-anchor="middle" fill="#f0f7ff">IMPROVE</text>
+  <text x="1045" y="213" font-size="15" text-anchor="middle" fill="#9eb6cd">Refine and repeat</text>
+ </g>
+</g>
+</svg>
