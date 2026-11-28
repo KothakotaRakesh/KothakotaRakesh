@@ -6,7 +6,7 @@
 <text x="36" y="44" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#e4ebea">⌘</text>
 <g font-family="Arial,Helvetica,sans-serif">
  <text x="75" y="32" font-size="18" font-weight="800" fill="#f4f0e9" letter-spacing="1.4">GITHUB</text>
- <text x="75" y="51" font-size="12.5" fill="#b5c1c3" letter-spacing=".6">Profile & repositories</text>
+ <text x="75" y="51" font-size="12.5" fill="#b5c1c3" letter-spacing=".6">Profile &amp; repositories</text>
 </g>
 <path class="arrow" d="M292 27H307M307 27V42M307 27L290 44" fill="none" stroke="#dec5a4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
 </svg>
