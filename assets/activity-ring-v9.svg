@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="325" viewBox="0 0 960 325" role="img" aria-labelledby="title desc">
+<title id="title">Kothakota Rakesh public GitHub activity — 12 month circle</title>
+<desc id="desc">Historical snapshot on November 28 2026 of 143 authored commits, 9 repositories with activity and 13 active commit dates. Activity across six of twelve months: February, March, August, September, October and November 2026.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#131E24"/><stop offset="1" stop-color="#19272B"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E68C68" stop-opacity="0"/><stop offset=".4" stop-color="#F1A17B"/><stop offset="1" stop-color="#96BCB7" stop-opacity=".25"/></linearGradient>
+</defs>
+<style>
+.orbit{transform-origin:182px 182px;animation:spin 34s linear infinite}
+.active{animation:pulse 5s ease-in-out infinite}
+.trace{stroke-dasharray:32 29;animation:march 10s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{50%{stroke-opacity:.52}}
+@keyframes march{to{stroke-dashoffset:-610}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="960" height="325" rx="16" fill="url(#bg)"/>
+<rect x="1" y="1" width="958" height="323" rx="15" fill="none" stroke="#688082" stroke-opacity=".6" stroke-width="1.8"/>
+<path d="M20 58H940" stroke="#718C8D" stroke-opacity=".3"/>
+<path d="M20 58H940" stroke="url(#warm)" stroke-width="2.3" class="trace"/>
+<text x="23" y="38" font-family="Arial,sans-serif" font-size="20" font-weight="800" letter-spacing="1.3" fill="#F4F0E9">YEAR IN REVIEW</text>
+<text x="938" y="38" text-anchor="end" font-family="Arial,sans-serif" font-size="12.8" font-weight="700" letter-spacing="1" fill="#9CB4B5">28 NOV 2026 / UTC</text>
+<circle cx="182" cy="182" r="115" fill="none" stroke="#718C8D" stroke-opacity=".33"/>
+<circle cx="182" cy="182" r="74" fill="#17252A" stroke="#506970" stroke-opacity=".78"/>
+<g class="orbit"><path d="M182.0 67.0A115 115 0 0 1 294.5 158.1" fill="none" stroke="#E9916D" stroke-width="2.6" stroke-linecap="round"/><circle cx="182" cy="67" r="4.1" fill="#EFA17B"/></g>
+<path class="inactive" style="animation-delay:0.00s" d="M190.1 89.4A93 93 0 0 1 221.3 97.7" stroke="#3D5055" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="inactive" style="animation-delay:-0.25s" d="M235.3 105.8A93 93 0 0 1 258.2 128.7" stroke="#3D5055" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="active" style="animation-delay:-0.50s" d="M266.3 142.7A93 93 0 0 1 274.6 173.9" stroke="#89B8B3" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="active" style="animation-delay:-0.75s" d="M274.6 190.1A93 93 0 0 1 266.3 221.3" stroke="#89B8B3" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="inactive" style="animation-delay:-1.00s" d="M258.2 235.3A93 93 0 0 1 235.3 258.2" stroke="#3D5055" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="inactive" style="animation-delay:-1.25s" d="M221.3 266.3A93 93 0 0 1 190.1 274.6" stroke="#3D5055" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="inactive" style="animation-delay:-1.50s" d="M173.9 274.6A93 93 0 0 1 142.7 266.3" stroke="#3D5055" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="inactive" style="animation-delay:-1.75s" d="M128.7 258.2A93 93 0 0 1 105.8 235.3" stroke="#3D5055" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="active" style="animation-delay:-2.00s" d="M97.7 221.3A93 93 0 0 1 89.4 190.1" stroke="#E9916D" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="active" style="animation-delay:-2.25s" d="M89.4 173.9A93 93 0 0 1 97.7 142.7" stroke="#E9916D" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="active" style="animation-delay:-2.50s" d="M105.8 128.7A93 93 0 0 1 128.7 105.8" stroke="#E9916D" stroke-width="15" stroke-linecap="round" fill="none"/>
+<path class="active" style="animation-delay:-2.75s" d="M142.7 97.7A93 93 0 0 1 173.9 89.4" stroke="#E9916D" stroke-width="15" stroke-linecap="round" fill="none"/>
+<text x="182" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="55" font-weight="800" fill="#F3EFE6">6<tspan font-size="27" fill="#A2B9B9">/12</tspan></text>
+<text x="182" y="213" text-anchor="middle" font-family="Arial,sans-serif" font-size="13.3" font-weight="800" letter-spacing="1.2" fill="#A6C0BF">MONTHS</text>
+<g>
+ <rect x="358" y="94" width="183" height="171" rx="12" fill="#1D2B31" stroke="#61797B" stroke-opacity=".65"/>
+ <path d="M375 113H524" stroke="#E99574" stroke-width="2" class="trace"/>
+ <text x="375" y="191" font-family="Arial,sans-serif" font-size="63" font-weight="800" fill="#E99574">143</text>
+ <text x="375" y="223" font-family="Arial,sans-serif" font-size="15.7" font-weight="700" fill="#E2ECE6" letter-spacing=".5">AUTHORED COMMITS</text>
+ </g>
+<g>
+ <rect x="554" y="94" width="183" height="171" rx="12" fill="#1D2B31" stroke="#61797B" stroke-opacity=".65"/>
+ <path d="M571 113H720" stroke="#88B9B8" stroke-width="2" class="trace"/>
+ <text x="571" y="191" font-family="Arial,sans-serif" font-size="63" font-weight="800" fill="#88B9B8">09</text>
+ <text x="571" y="223" font-family="Arial,sans-serif" font-size="15.7" font-weight="700" fill="#E2ECE6" letter-spacing=".5">PUBLIC REPOS</text>
+ </g>
+<g>
+ <rect x="750" y="94" width="183" height="171" rx="12" fill="#1D2B31" stroke="#61797B" stroke-opacity=".65"/>
+ <path d="M767 113H916" stroke="#D4C2AA" stroke-width="2" class="trace"/>
+ <text x="767" y="191" font-family="Arial,sans-serif" font-size="63" font-weight="800" fill="#D4C2AA">13</text>
+ <text x="767" y="223" font-family="Arial,sans-serif" font-size="15.7" font-weight="700" fill="#E2ECE6" letter-spacing=".5">ACTIVE DATES</text>
+ </g>
+<text x="355" y="289" font-family="Arial,sans-serif" font-size="14.5" font-weight="600" fill="#AFC4C1">Snapshot of authored commits in public repositories</text>
+<text x="183" y="306" text-anchor="middle" font-family="Arial,sans-serif" font-size="13.8" font-weight="700" fill="#C5B29C">6 active months</text>
+</svg>
