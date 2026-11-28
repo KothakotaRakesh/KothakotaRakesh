@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="88" viewBox="0 0 380 88" role="img" aria-label="GITHUB CODE & REPOSITORIES">
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="88" viewBox="0 0 380 88" role="img" aria-label="GITHUB CODE &amp; REPOSITORIES">
  <style>
  .arrow{animation:move 3.6s ease-in-out infinite}
  .dash{stroke-dasharray:45 20;animation:run 11s linear infinite}
