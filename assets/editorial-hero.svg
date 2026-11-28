@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Kothakota Rakesh | AI/ML and Full-Stack Development</title>
+<desc id="desc">A refined dark editorial nameplate with warm gold details and a subtle animated KR monogram.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141d23"/><stop offset=".58" stop-color="#121a21"/><stop offset="1" stop-color="#172128"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78258"/><stop offset=".5" stop-color="#edc99b"/><stop offset="1" stop-color="#bc996b"/></linearGradient>
+  <linearGradient id="arc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edd2ad" stop-opacity=".78"/><stop offset="1" stop-color="#95aeb3" stop-opacity=".16"/></linearGradient>
+  <pattern id="grain" width="27" height="27" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#f4ecd9" opacity=".07"/></pattern>
+  <clipPath id="rounded"><rect x="1" y="1" width="1198" height="318" rx="17"/></clipPath>
+</defs>
+<style>
+ .orbit{transform-origin:980px 158px;animation:rotate 34s linear infinite}
+ .orbit2{transform-origin:980px 158px;animation:rotate 42s linear infinite reverse}
+ .signal{stroke-dasharray:38 460;animation:travel 12s linear infinite}
+ .cursor{animation:blink 1.5s steps(1,end) infinite}
+ @keyframes rotate{to{transform:rotate(360deg)}}
+ @keyframes travel{to{stroke-dashoffset:-996}}
+ @keyframes blink{50%{opacity:0}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#rounded)">
+  <rect width="1200" height="320" fill="url(#grain)"/>
+  <path d="M39 29H1161" stroke="#617178" stroke-opacity=".33"/>
+  <path d="M39 290H1161" stroke="#617178" stroke-opacity=".33"/>
+  <path d="M690 0L1040 320M810 0L1160 320" fill="none" stroke="#d2bd9c" stroke-opacity=".045" stroke-width="120"/>
+  <path d="M39 290H1161" stroke="url(#gold)" stroke-width="2.7" class="signal"/>
+  <path d="M40 69V260" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="980" cy="158" r="113" fill="#1b262c" stroke="#b1a18b" stroke-opacity=".16"/>
+  <circle cx="980" cy="158" r="89" fill="none" stroke="#b0c1be" stroke-opacity=".16"/>
+  <circle cx="980" cy="158" r="132" fill="none" stroke="#bd9a6b" stroke-opacity=".08"/>
+  <g class="orbit">
+    <path d="M980 45A113 113 0 0 1 1093 158" fill="none" stroke="url(#arc)" stroke-width="2.2" stroke-linecap="round"/>
+    <circle cx="980" cy="45" r="3.8" fill="#dfbc8c"/>
+  </g>
+  <g class="orbit2"><path d="M980 253A95 95 0 0 1 885 158" fill="none" stroke="#8ba4a7" stroke-opacity=".55" stroke-width="1.7"/></g>
+</g>
+<rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#70817f" stroke-opacity=".47"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="52" y="53" fill="#c7b393" font-size="15" font-weight="700" letter-spacing="3">K / R</text>
+  <text x="1160" y="53" text-anchor="end" fill="#94a3a8" font-size="14" letter-spacing="2">PERSONAL PROFILE</text>
+  <text x="65" y="140" fill="#f2eee8" font-size="67" font-weight="700" letter-spacing="-2.6">Kothakota</text>
+  <text x="62" y="236" fill="url(#gold)" font-size="103" font-weight="800" letter-spacing="-4.5">Rakesh<tspan class="cursor">_</tspan></text>
+  <text x="64" y="271" fill="#c4c9c5" font-size="22" font-weight="600" letter-spacing="1">AI / ML  <tspan fill="#c7a475">·</tspan>  FULL-STACK DEVELOPMENT</text>
+  <text x="977" y="188" text-anchor="middle" font-size="83" font-weight="700" letter-spacing="-7" fill="#dfcfb9">KR</text>
+  <text x="978" y="219" text-anchor="middle" fill="#b3aaa0" font-size="13" font-weight="700" letter-spacing="3.5">DEV  /  INDIA</text>
+</g>
+</svg>
