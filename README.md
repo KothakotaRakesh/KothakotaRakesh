@@ -1,55 +1,55 @@
 <div align="center">
 
-<img src="./assets/hero-v8.svg" width="100%" alt="Kothakota Rakesh — animated developer nameplate with a rotating orbital monogram, midnight ink background and citrus details." />
+<img src="./assets/header-v9.svg" width="100%" alt="Kothakota Rakesh — animated graphite and warm-coral developer header with a circular monogram." />
 
 <br />
 
 <a href="https://github.com/KothakotaRakesh" title="Explore my GitHub repositories">
-  <img src="./assets/github-v8.svg" width="285" alt="GitHub — code and repositories" />
+  <img src="./assets/github-v9.svg" width="265" alt="GitHub — code and repositories" />
 </a>
-&nbsp;&nbsp;
-<a href="https://kothakotarakesh.github.io/Power2808-tech/" title="Open my contact page and portfolio">
-  <img src="./assets/portfolio-v8.svg" width="285" alt="Portfolio — my personal contact page" />
+&nbsp;
+<a href="https://kothakotarakesh.github.io/Power2808-tech/" title="Open my portfolio and contact page">
+  <img src="./assets/portfolio-v9.svg" width="265" alt="Portfolio — contact and personal page" />
 </a>
 
 </div>
 
-### A little about me
+### Hi, I'm Rakesh.
 
-I'm **Kothakota Rakesh**, a B.Tech **Artificial Intelligence & Machine Learning** student at **Saveetha Institute of Medical and Technical Sciences, Chennai**.
+I'm a B.Tech **Artificial Intelligence & Machine Learning** student at **Saveetha Institute of Medical and Technical Sciences, Chennai**.
 
-I enjoy building full-stack applications and figuring out how things work behind the interface. Most of my learning happens by writing code, testing ideas, fixing problems, and making the next version better.
+I enjoy turning ideas into working web applications, learning how systems behave behind the interface, and exploring what machine learning and algorithms can do in practice.
 
-### GitHub activity
+### GitHub, in numbers
 
 <div align="center">
 
-<img src="./assets/activity-circle-v8.svg" width="100%" alt="Animated twelve-month activity circle and verified public GitHub commit statistics." />
+<img src="./assets/activity-ring-v9.svg" width="100%" alt="Animated circular graph of twelve months, with six active months, and public authored-commit metrics." />
 
-<img src="./assets/commit-graph-v8.svg" width="100%" alt="Animated bar graph of authored commits on the eight most recent dates with activity, based on public repository history." />
+<img src="./assets/commit-bars-v9.svg" width="100%" alt="Animated historical bar chart showing authored commits on the eight most recent active dates." />
 
 </div>
 
-<sub>**Data source:** Public GitHub repository commit history, collected **28 November 2026 (UTC)** before the V8 updates: **143 authored commit records**, **9 repositories with authored commits**, **13 active dates**, and **6 active months** in the previous year. The graph shows only the eight most recent dates with commits. These are historical commit records, **not GitHub's official contribution totals**, and the graphics do not update automatically.</sub>
+<sub>**Activity snapshot — 28 Nov 2026 (UTC), before the profile redesign commits:** 143 authored commit records in 9 public repositories, across 13 active dates and 6 active months. The bars show the eight most recent dates with commits. This is **not GitHub's official contributions total** and does not update automatically. The native GitHub contribution calendar is visible below this README.</sub>
 
-### Tools I use and explore
+### What I work with
 
 <div align="center">
 
-<img src="./assets/toolkit-v8.svg" width="100%" alt="Animated four-panel technical overview: frontend, backend, machine learning and algorithms, and development workflow." />
+<img src="./assets/skills-v9.svg" width="100%" alt="Four animated professional skill panels: frontend engineering, backend development, AI and algorithms, and development tools." />
 
 </div>
 
-I'm particularly interested in **Python, React, FastAPI, machine learning, graph algorithms and cybersecurity**. The toolkit includes technologies I'm using or actively learning.
+<sub>These are technologies I use or am actively learning, not a claim of equal proficiency in every tool.</sub>
 
-### Beyond the code
+### The way I learn
 
-I like taking ideas beyond a demo screen—connecting a usable interface to real logic, checking the results and learning from what breaks. Hackathons and academic work are opportunities to practise that process.
+I prefer building, testing, and improving something real. Whether it's a small web feature or an AI experiment, I like understanding **why it works**, not only getting it to run.
 
 <br />
 
 <div align="center">
 
-<img src="./assets/footer-v8.svg" width="100%" alt="Kothakota Rakesh — Still learning. Still building. Animated signature line." />
+<img src="./assets/footer-v9.svg" width="100%" alt="Learning by building — Kothakota Rakesh. Animated signature graphic." />
 
 </div>
