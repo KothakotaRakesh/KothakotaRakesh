@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="445" viewBox="0 0 960 445" role="img" aria-labelledby="title desc">
+<title id="title">Kothakota Rakesh — technical toolkit</title>
+<desc id="desc">Four tasteful animated cards: frontend engineering with React, Next.js, JavaScript and HTML/CSS; backend Python, FastAPI and Flask; AI and algorithms; developer tooling including Git, Docker and cybersecurity.</desc>
+<style>
+.skill{animation:lift 7s ease-in-out infinite}
+.trace{stroke-dasharray:40 35;animation:move 15s linear infinite}
+.beacon{animation:pulse 3.5s ease-in-out infinite}
+@keyframes lift{50%{transform:translateY(-3px)}}
+@keyframes move{to{stroke-dashoffset:-600}}
+@keyframes pulse{50%{opacity:.25}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="960" height="445" rx="16" fill="#151F25"/>
+<rect x="1" y="1" width="958" height="443" rx="15" fill="none" stroke="#688184" stroke-opacity=".61" stroke-width="1.8"/>
+<text x="21" y="40" font-family="Arial,sans-serif" font-size="20" font-weight="800" fill="#F3EFE8" letter-spacing="1.2">THINGS I BUILD WITH</text>
+<text x="937" y="40" text-anchor="end" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#A5BABA" letter-spacing=".8">USED / LEARNING</text>
+<path d="M20 52H939" stroke="#748B8A" stroke-opacity=".36"/>
+<g class="skill" style="animation-delay:0.00s">
+ <rect x="20" y="70" width="450" height="169" rx="12" fill="#202C32" stroke="#667F81" stroke-opacity=".66"/>
+ <path d="M35 83H455" stroke="#EFA27D" stroke-width="2" stroke-opacity=".77" class="trace"/>
+ <rect x="38" y="98" width="49" height="48" rx="9" fill="#152229" stroke="#EFA27D" stroke-opacity=".7"/>
+ <text x="62.5" y="129" text-anchor="middle" font-size="18" font-weight="800" font-family="Arial,sans-serif" fill="#EFA27D">&lt;/&gt;</text>
+ <text x="102" y="129" font-size="24" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.3" fill="#F3EFE8">Frontend engineering</text>
+ <text x="40" y="182" font-size="20.5" font-family="Arial,sans-serif" fill="#E0E8E2" font-weight="600">React · Next.js · JavaScript</text>
+ <text x="40" y="213" font-size="17" font-family="Arial,sans-serif" fill="#A6BCBD">Responsive interfaces · HTML / CSS</text>
+ <circle cx="447" cy="215" r="4.2" fill="#EFA27D" class="beacon"/>
+ </g>
+<g class="skill" style="animation-delay:-1.10s">
+ <rect x="490" y="70" width="450" height="169" rx="12" fill="#202C32" stroke="#667F81" stroke-opacity=".66"/>
+ <path d="M505 83H925" stroke="#8FC1BD" stroke-width="2" stroke-opacity=".77" class="trace"/>
+ <rect x="508" y="98" width="49" height="48" rx="9" fill="#152229" stroke="#8FC1BD" stroke-opacity=".7"/>
+ <text x="532.5" y="129" text-anchor="middle" font-size="25" font-weight="800" font-family="Arial,sans-serif" fill="#8FC1BD">⌘</text>
+ <text x="572" y="129" font-size="24" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.3" fill="#F3EFE8">Backend development</text>
+ <text x="510" y="182" font-size="20.5" font-family="Arial,sans-serif" fill="#E0E8E2" font-weight="600">Python · FastAPI · Flask</text>
+ <text x="510" y="213" font-size="17" font-family="Arial,sans-serif" fill="#A6BCBD">REST APIs · SQL · Data handling</text>
+ <circle cx="917" cy="215" r="4.2" fill="#8FC1BD" class="beacon"/>
+ </g>
+<g class="skill" style="animation-delay:-2.20s">
+ <rect x="20" y="255" width="450" height="169" rx="12" fill="#202C32" stroke="#667F81" stroke-opacity=".66"/>
+ <path d="M35 268H455" stroke="#CDBA9D" stroke-width="2" stroke-opacity=".77" class="trace"/>
+ <rect x="38" y="283" width="49" height="48" rx="9" fill="#152229" stroke="#CDBA9D" stroke-opacity=".7"/>
+ <text x="62.5" y="314" text-anchor="middle" font-size="25" font-weight="800" font-family="Arial,sans-serif" fill="#CDBA9D">✳</text>
+ <text x="102" y="314" font-size="24" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.3" fill="#F3EFE8">AI and algorithms</text>
+ <text x="40" y="367" font-size="20.5" font-family="Arial,sans-serif" fill="#E0E8E2" font-weight="600">Machine Learning · Graphs</text>
+ <text x="40" y="398" font-size="17" font-family="Arial,sans-serif" fill="#A6BCBD">Data structures · Applied problem-solving</text>
+ <circle cx="447" cy="400" r="4.2" fill="#CDBA9D" class="beacon"/>
+ </g>
+<g class="skill" style="animation-delay:-3.30s">
+ <rect x="490" y="255" width="450" height="169" rx="12" fill="#202C32" stroke="#667F81" stroke-opacity=".66"/>
+ <path d="M505 268H925" stroke="#9FB6BA" stroke-width="2" stroke-opacity=".77" class="trace"/>
+ <rect x="508" y="283" width="49" height="48" rx="9" fill="#152229" stroke="#9FB6BA" stroke-opacity=".7"/>
+ <text x="532.5" y="314" text-anchor="middle" font-size="25" font-weight="800" font-family="Arial,sans-serif" fill="#9FB6BA">◈</text>
+ <text x="572" y="314" font-size="24" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-.3" fill="#F3EFE8">Build and tooling</text>
+ <text x="510" y="367" font-size="20.5" font-family="Arial,sans-serif" fill="#E0E8E2" font-weight="600">Git · GitHub · Docker</text>
+ <text x="510" y="398" font-size="17" font-family="Arial,sans-serif" fill="#A6BCBD">Testing · Debugging · Cybersecurity</text>
+ <circle cx="917" cy="400" r="4.2" fill="#9FB6BA" class="beacon"/>
+ </g>
+</svg>
