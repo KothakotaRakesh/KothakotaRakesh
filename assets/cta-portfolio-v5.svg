@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="79" viewBox="0 0 350 79" role="img" aria-label="PORTFOLIO — OPEN MY LINK HUB">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2a6664"/><stop offset="1" stop-color="#164b55"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8df6e8" stop-opacity=".3"/><stop offset=".5" stop-color="#8df6e8"/><stop offset="1" stop-color="#8df6e8" stop-opacity=".3"/></linearGradient>
+</defs>
+<style>
+ .arrow{animation:arrow 3.7s ease-in-out infinite}
+ .underline{animation:bright 4s ease-in-out infinite}
+ @keyframes arrow{50%{transform:translate(3px,-3px)}}
+ @keyframes bright{50%{opacity:.38}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="348" height="77" rx="15" fill="url(#bg)" stroke="url(#line)" stroke-width="2"/>
+<rect x="13" y="12" width="55" height="55" rx="12" fill="#061521" fill-opacity=".4" stroke="#8df6e8" stroke-opacity=".44"/>
+<text x="40" y="47" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="900" fill="#e2fffc">↗</text>
+<text x="84" y="38" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="900" fill="#e2fffc" letter-spacing="1.3">PORTFOLIO</text>
+<text x="84" y="58" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#8df6e8" letter-spacing="1.55">OPEN MY LINK HUB</text>
+<g class="arrow"><path d="M309 32H326M326 32V49M326 32L308 50" fill="none" stroke="#e2fffc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M84 67H262" stroke="url(#line)" stroke-width="1.2" class="underline"/>
+</svg>
